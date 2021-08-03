@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "StopMotioner",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
